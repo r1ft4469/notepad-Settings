@@ -38,10 +38,6 @@
         <Replace name=' &quot;0&quot;' />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
-        <File filename="C:\Users\r1ft\Desktop\Unity_Console_PoE2-2-1-1.7z" />
-        <File filename="C:\Users\r1ft\Desktop\Apex\Apex_Config\autoexec.cfg" />
-        <File filename="C:\Users\r1ft\Desktop\Darkest.CT" />
-        <File filename="C:\Users\r1ft\Documents\Rainmeter\Skins\Music\music.ini" />
     </History>
     <GUIConfigs>
         <GUIConfig name="ToolBar" visible="no">standard</GUIConfig>
